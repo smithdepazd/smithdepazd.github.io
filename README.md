@@ -1,0 +1,2 @@
+# smithdepazd.github.io
+legacywebsite
